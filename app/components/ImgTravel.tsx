@@ -3,7 +3,7 @@ export default function ImgTravel(){
          <section className="p-2 lg:grid grid-cols-3">
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-1.jpg.svg"
+          src="/img/img header/Section/holiday-1.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
@@ -13,7 +13,7 @@ export default function ImgTravel(){
       </div>
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-2.jpg.svg"
+          src="/img/img header/Section/holiday-2.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
@@ -22,7 +22,7 @@ export default function ImgTravel(){
       </div>
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-3.jpg.svg"
+          src="/img/img header/Section/holiday-3.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
@@ -31,7 +31,7 @@ export default function ImgTravel(){
       </div>
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-4.jpg.svg"
+          src="/img/img header/Section/holiday-4.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
@@ -40,7 +40,7 @@ export default function ImgTravel(){
       </div>
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-5.jpg.svg"
+          src="/img/img header/Section/holiday-5.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
@@ -49,7 +49,7 @@ export default function ImgTravel(){
       </div>
       <div className="flex flex-col items-center pt-8">
         <img
-          src="img header/Section/holiday-6.jpg.svg"
+          src="/img/img header/Section/holiday-6.jpg.svg"
           alt=""
           className="w-auto h-auto mb-4"
         />
