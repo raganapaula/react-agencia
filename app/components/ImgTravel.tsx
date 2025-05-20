@@ -58,5 +58,6 @@ export default function ImgTravel(){
       </div>
     </section>
 
+
     )
 }
