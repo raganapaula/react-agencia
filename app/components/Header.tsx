@@ -14,10 +14,10 @@ export default function Header() {
                         <a href="#">Discounts</a>
                     </div>
                 </nav>
+
                 <div className="bg-orange-300 p-5 w-full grid grid-cols-1">
-                    <div
-                        className="flex flex-col items-center font-kaushan text-white text-center"
-                    >
+                    
+                    <div className="flex flex-col items-center font-kaushan text-white text-center">
                         <span className="text-[2rem]">Let's go now</span>
                         <span className="text-[3rem]">explore and travel</span>
                         <button
@@ -29,22 +29,22 @@ export default function Header() {
                 </div>
                 <div className="grid grid-cols-2 gap-2 mt-5 lg:flex justify-between p-5 font-poppins text-[#333]">
                     <img
-                        src="img header/Section/div.tour__card.svg"
+                        src="/img/img header/Section/div.tour__card.svg"
                         alt="Tour Card"
                         className="w-60 h-auto "
                     />
                     <img
-                        src="img header/Section/div.tour__card (1).svg"
+                        src="/img/img header/Section/div.tour__card (1).svg"
                         alt="Tour Card"
                         className="w-60 h-auto "
                     />
                     <img
-                        src="img header/Section/div.tour__card (2).svg"
+                        src="/img/img header/Section/div.tour__card (2).svg"
                         alt="Tour Card"
                         className="w-60 h-auto "
                     />
                     <img
-                        src="img header/Section/div.tour__card (3).svg"
+                        src="/img/img header/Section/div.tour__card (3).svg"
                         alt="Tour Card"
                         className="w-60 h-auto "
                     />

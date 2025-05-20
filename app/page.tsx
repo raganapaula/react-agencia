@@ -7,6 +7,7 @@ import TitleGallery from "./components/TitleGallery";
 import TitleTravel from "./components/TitleTravel";
 
 
+
 export default function Home() {
 return(
  <div>
