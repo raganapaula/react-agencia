@@ -17,9 +17,9 @@ export default function Header() {
 
                 <div className="bg-orange-500 p-5 w-full grid grid-cols-1">
                     
-                    <div className="flex flex-col items-center font-kaushan text-white text-center">
-                        <span className="text-[2rem]">Let's go now</span>
-                        <span className="text-[3rem]">explore and travel</span>
+                    <div className="flex flex-col items-center text-white text-center">
+                        <span className="text-[2rem] titulo">Let's go now</span>
+                        <span className="titulo text-[3rem]">explore and travel</span>
                         <button
                             className="mt-4 py-2 px-4 rounded-md hover:bg-blue-300 bg-green-400 font-sans max-w-60"
                         >
