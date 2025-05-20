@@ -1,4 +1,5 @@
 import ButtonTravel from "./components/ButtonTravel";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import ImgGallery from "./components/ImgGallery";
 import ImgTravel from "./components/ImgTravel";
@@ -15,6 +16,7 @@ return(
 <ButtonTravel/>
  <TitleGallery/>
  <ImgGallery/>
+ <Footer/>
  </div>
 )
 }
