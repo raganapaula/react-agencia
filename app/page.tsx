@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import ImgTravel from "./components/ImgTravel";
 import TitleTravel from "./components/TitleTravel";
 
 
@@ -7,6 +8,7 @@ return(
  <div>
  <Header/>
  <TitleTravel/>
+ <ImgTravel/>
  </div>
 )
 }
