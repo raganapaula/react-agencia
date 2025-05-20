@@ -44,7 +44,7 @@ export default function ImgGallery(){
         className="w-70 h-auto mb-4"
       />
       <img
-        src="img/img gallery/allery-9.jpg.svg"
+        src="img/img gallery/gallery-9.jpg.svg"
         alt="Gallery Image 9"
         className="w-70 h-auto mb-4"
       />
