@@ -44,7 +44,7 @@ export default function ImgTravel(){
           alt=""
           className="w-auto h-auto mb-4"
         />
-        <span className="text-orange-500 font-poppins text-base font-bold">Helicopter Flight</span>
+        <span className="text-black font-poppins text-base font-bold">Helicopter Flight</span>
         <span className="text-orange-500 font-poppins text-base font-bold">$250</span>
       </div>
       <div className="flex flex-col items-center pt-8">
@@ -53,7 +53,7 @@ export default function ImgTravel(){
           alt=""
           className="w-auto h-auto mb-4"
         />
-        <span className="text-orange-500 font-poppins text-base font-bold">Snorkeling Adventure</span>
+        <span className="text-black font-poppins text-base font-bold">Snorkeling Adventure</span>
         <span className="text-orange-500 font-poppins text-base font-bold">$412</span>
       </div>
     </section>
