@@ -15,7 +15,7 @@ export default function Header() {
                     </div>
                 </nav>
 
-                <div className="bg-orange-300 p-5 w-full grid grid-cols-1">
+                <div className="bg-orange-500 p-5 w-full grid grid-cols-1">
                     
                     <div className="flex flex-col items-center font-kaushan text-white text-center">
                         <span className="text-[2rem]">Let's go now</span>
