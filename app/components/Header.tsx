@@ -8,8 +8,8 @@ export default function Header() {
                         >TRAVEL - AGENCIA DE VIAGENS</span>
                     </div>
                     <div className="space-x-3 mb-4">
-                        <a href="#">Inicio</a>
-                        <a href="#">Tour List</a>
+                        <a href="/menu">Inicio</a>
+                        <a href="/menu/tourlist">Tour List</a>
                         <a href="#">Destinations</a>
                         <a href="#">Discounts</a>
                     </div>
